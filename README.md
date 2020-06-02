@@ -14,5 +14,8 @@ Assigned 10 types of food.
 * beef_carpaccio
 
 ## Preprocessing Steps
-Optional. Download food-101 zip from this [website](https://www.kaggle.com/dansbecker/food-101). Make sure you download the `.zip` file and **NOT** the `.zip.zip` file. (*Only do this if you want to train more than my 10 types of foods specified*)
+Optional) Download food-101 zip from this [website](https://www.kaggle.com/dansbecker/food-101). Make sure you download the `.zip` file and **NOT** the `.zip.zip` file. (*Only do this if you want to train more than my 10 types of foods specified*)
 
+1) Place Image_Preprocessing.ipynb, 40.txt and the extracted image file (food-101/food-101/food-101/images) into the same base directory of choice.
+
+2)
