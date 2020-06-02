@@ -14,6 +14,5 @@ Assigned 10 types of food.
 * beef_carpaccio
 
 ## Preprocessing Steps
----
 Optional. Download food-101 zip from this [website](https://www.kaggle.com/dansbecker/food-101). Make sure you download the `.zip` file and **NOT** the `.zip.zip` file. (*Only do this if you want to train more than my 10 types of foods specified*)
 
