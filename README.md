@@ -17,6 +17,7 @@ Assigned 10 types of food.
 * At least 16GB RAM
 * An i7 Intel Processor (or equivalent)
 * A NVIDIA GPU
+* NvMe SSD for unzipping tha large dataset
 
 ## Software Packages
 * Anaconda
