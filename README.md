@@ -19,4 +19,4 @@ Assigned 10 types of food.
 2) Place Image_Preprocessing.ipynb, 40.txt and the extracted image file (food-101/food-101/food-101/images) into the same base directory of choice. An example is given below:
 
 
-3) Run 
+3) Run Image_Preprocessing.ipynb with 40.txt and your path of the images folder specified.
