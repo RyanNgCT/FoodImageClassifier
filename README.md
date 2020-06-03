@@ -24,7 +24,59 @@ DL Assignment 1
 |- Image_Preprocessing.ipynb
 |- 40.txt
 |- Assignment_1.ipynb
-|- images
+|- images (102 items)
+   |- apple_pie (1000 images)
+      |-
+   |- baby_back_ribs
+   |- baklava
+   ...
+   |- tiramisu
+   |- tuna_tartare
+   |- waffles
+   |- .DS Store (can ignore)
+```
+3) Run Image_Preprocessing.ipynb with 40.txt and your path of the images folder specified. The folder structure should be modified slightly
+as shown below.
+```
+DL Assignment 1
+|- Image_Preprocessing.ipynb
+|- 40.txt
+|- train
+|- test
+|- validate
+|- Assignment_1.ipynb
+|- images (102 items)
+   |- apple_pie (1000 images)
+      |-
+   |- baby_back_ribs
+   |- baklava
+   ...
+   |- tiramisu
+   |- tuna_tartare
+   |- waffles
+   |- .DS Store (can ignore)
+```
 
+4) Create a new folder named `Assigned_Images` and move the `train`, `test` and `validate` folders to this folder. The reultant directory structure is shown below.
+```
+DL Assignment 1
+|- Image_Preprocessing.ipynb
+|- 40.txt
+|- Assigned_Images
+   |- train
+   |- test
+   |- validate
+|- Assignment_1.ipynb
+|- images (102 items)
+   |- apple_pie (1000 images)
+      |-
+   |- baby_back_ribs
+   |- baklava
+   ...
+   |- tiramisu
+   |- tuna_tartare
+   |- waffles
+   |- .DS Store (can ignore)
+```
 
-3) Run Image_Preprocessing.ipynb with 40.txt and your path of the images folder specified.
+## Building the Model
