@@ -13,6 +13,18 @@ Assigned 10 types of food.
 * sushi
 * beef_carpaccio
 
+## Recommended Hardware
+* At least 16GB RAM
+* An i7 Intel Processor (or equivalent)
+* A NVIDIA GPU
+
+## Software Packages
+* Anaconda
+   * Tensorflow (which includes Keras) and Tensorflow-Base
+   * Tensorboard
+   * Tensorflow GPU (optional)
+
+
 ## Preprocessing Steps
 1) Download food-101 zip from this [website](https://www.kaggle.com/dansbecker/food-101). Make sure you download the `.zip` file and **NOT** the `.zip.zip` file. 
 ***Warning: If you have a non-NVMe SSD, this could take up to 8 hours to unzip***
@@ -80,3 +92,4 @@ DL Assignment 1
 ```
 
 ## Building the Model
+To be updated...
