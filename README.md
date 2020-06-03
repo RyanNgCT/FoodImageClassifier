@@ -92,4 +92,7 @@ DL Assignment 1
 ```
 
 ## Building the Model
-To be updated...
+To be updated... 🚧
+
+## Results
+To be updated... 🚧
