@@ -24,6 +24,12 @@ Assigned 10 types of food.
    * Tensorflow (which includes Keras) and Tensorflow-Base
    * Tensorboard
    * Tensorflow GPU (optional)
+   
+```
+conda install tensorflow
+conda install tensorboard
+conda install tensorflow-gpu
+```
 
 
 ## Preprocessing Steps
