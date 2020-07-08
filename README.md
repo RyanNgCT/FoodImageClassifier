@@ -1,5 +1,5 @@
 # FoodImageClassifier
-Did this for my Deep Learning Module Assignment 1. Based of the food-101 dataset on Kaggle.
+Did this for my Deep Learning Module Assignment 1. Based off the food-101 dataset on Kaggle, which was used in a DL competition.
 
 Assigned 10 types of food.
 * caprese_salad
@@ -17,7 +17,7 @@ Assigned 10 types of food.
 * At least 16GB RAM
 * An i7 Intel Processor (or equivalent)
 * A NVIDIA GPU
-* NvMe SSD for unzipping tha large dataset
+* NvMe SSD for unzipping the large (food-101) dataset
 
 ## Software Packages
 * Anaconda
@@ -96,4 +96,21 @@ DL Assignment 1
 To be updated... 🚧
 
 ## Results
-To be updated... 🚧
+| Model Number:  | Description/Type: |Test Accuracy (%):|
+| -------------  | ----------------- | ---------------- |
+| 0              |                   |                  |
+| 1              |                   |                  |
+| 2              |                   |                  |
+| 3              |                   |                  |
+| 4              |                   |                  |
+| 5              |                   |                  |
+| 6              |                   |                  |
+| 7              |                   |                  |
+| 8              |                   |                  |
+| 9              |                   |                  |
+| 10             |                   |                  |
+| 11             |                   |                  |
+| 12             |                   |                  |
+| 13             |                   |                  |
+| 14             |                   |                  |
+| 15             |                   |                  |
