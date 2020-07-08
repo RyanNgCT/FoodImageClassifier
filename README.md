@@ -93,24 +93,27 @@ DL Assignment 1
 ```
 
 ## Building the Model
-To be updated... 🚧
+For all my models, I chose an image size of 150 x 150 and used data augmentation for all models, which aided in increasing the diversity of the relatively small dataset of 1000 images per food category. For most models, I used a standard set of augmentation parameters. In models where I may have tweaked some of the parameters, I will state which parameters have been changed. Otherwise, all models can be assumed follow the default set of augmentation parameters.
+
 
 ## Results
-| Model Number:  | Description/Type: |Test Accuracy (%):|
-| -------------  | ----------------- | ---------------- |
-| 0              |                   |                  |
-| 1              |                   |                  |
-| 2              |                   |                  |
-| 3              |                   |                  |
-| 4              |                   |                  |
-| 5              |                   |                  |
-| 6              |                   |                  |
-| 7              |                   |                  |
-| 8              |                   |                  |
-| 9              |                   |                  |
-| 10             |                   |                  |
-| 11             |                   |                  |
-| 12             |                   |                  |
-| 13             |                   |                  |
-| 14             |                   |                  |
-| 15             |                   |                  |
+| Model Number:  | Description/Type:                     |Test Accuracy (%):|
+| -------------  | ------------------------------------- | ---------------- |
+| 0              | Non-PT RMSProp Base                   | 64.2             |
+| 1              | Non-PT RMSProp Lower LR               | 68               |
+| 2              | Non-PT RMSProp Change Steps Per Epoch | 57               |
+| 3              | Non-PT RMSProp Higher LR              | 59.8             |
+| 4              | Non-PT Adam Lower LR                  | 55.8             |
+| 5              | Non-PT Adam Base                      | 71.2             |
+| 6              | Non-PT SGD+Momentum Base              | 67.4             |
+| 7              | Non-PT SGD+Momentum Lower Momentum    | 64.4             |
+| 8              | Non-PT Adam Regularization            | 69.6             |
+| 9              | PT VGG16 Fine Tuning 2                | 74.6             |
+| 10             | PT VGG16 Base*                        | 67.8             |
+| 11             | PT VGG16 Fine Tuning 1                | 73.2             |
+| 12             | PT ResNet50 Base                      | 75.4             |
+| 13             | PT ResNet50 Fine Tuning 1             | 79.6             |
+| 14             | PT ResNet50 Fine Tuning 2             | 78.8             |
+| 15             | PT ResNet50 Fine Tuning 3             | 83.4             |
+
+*underfitted.
