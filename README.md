@@ -100,8 +100,7 @@ DL Assignment 1
 ```
 
 ## Building the Model
-For all my models, I chose an image size of 150 x 150 and used data augmentation for all models, which aided in increasing the diversity of the relatively small dataset of 1000 images per food category. For most models, I used a standard set of augmentation parameters. In models where I may have tweaked some of the parameters, I will state which parameters have been changed. Otherwise, all models can be assumed follow the default set of augmentation parameters.
-
+For all my models, I chose an image size of 150 x 150 and used data augmentation for all models, which aided in increasing the diversity of the relatively small dataset of 1000 images per food category. For most models, I used a standard set of augmentation parameters, which can be found in the notebook (base models).
 
 ## Results
 | Model Number:  | Description/Type:                     |Test Accuracy (%):|
