@@ -1,6 +1,8 @@
 # FoodImageClassifier
 Did this for my Deep Learning Module Assignment 1. Based off the food-101 dataset on Kaggle, which was used in a DL competition.
 
+Achieved an 'A' grade / 4.0 GPA for this assignment. (Models, Presentation which is not included and Final Report).
+
 Assigned 10 types of food.
 * caprese_salad
 * hamburger
@@ -27,7 +29,6 @@ Assigned 10 types of food.
    
 ```
 conda install tensorflow
-conda install tensorboard
 conda install tensorflow-gpu
 ```
 
