@@ -18,13 +18,12 @@ Assigned 10 types of food.
 ## Recommended Hardware
 * At least 16GB RAM
 * An i7 Intel Processor (or equivalent)
-* A NVIDIA GPU with 2GB NVRAM (or equivalent)
+* A NVIDIA GPU with 2GB VRAM (or equivalent)
 * NvMe SSD for unzipping the large (food-101) dataset
 
 ## Software Packages
 * Anaconda
    * Tensorflow (which includes Keras) and Tensorflow-Base
-   * Tensorboard
    * Tensorflow GPU (optional)
    
 ```
