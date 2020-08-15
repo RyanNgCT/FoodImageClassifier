@@ -123,3 +123,12 @@ For all my models, I chose an image size of 150 x 150 and used data augmentation
 | 15             | PT ResNet50 Fine Tuning 3             | 83.4             |
 
 *underfitted.
+
+## Best Model Evaluation
+Criteria:
+* Not overfit too quickly
+* Have good test accuracy of above 70%
+* Be able to classify MOST of the images I downloaded from the Internet
+
+Best Model: **Model 9**
+
