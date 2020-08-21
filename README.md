@@ -129,5 +129,5 @@ Criteria:
 * Have good test accuracy of above 70%
 * Be able to classify MOST of the images I downloaded from the Internet
 
-Best Model: **Model 9**
+Best Model: **Model 9** (see report for scoring)
 
