@@ -15,6 +15,12 @@ Assigned 10 types of food.
 * sushi
 * beef_carpaccio
 
+## Problem and Objective
+The main objective of this assignment is to experiment with various Convolutional Neural Networks (CNNs) to determine which model is the best for classifying new images. 
+
+The problem is of a multi-class, single label type of classification as there are multiple food categories, with the condition that one image can only belong to one category. 
+
+
 ## Recommended Hardware
 * At least 16GB RAM
 * An i7 Intel Processor (or equivalent)
