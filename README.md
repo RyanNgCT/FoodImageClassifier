@@ -1,4 +1,7 @@
 # FoodImageClassifier
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 Did this for my Deep Learning Module Assignment 1. Based off the food-101 dataset on Kaggle, which was used in a DL competition.
 
 Achieved an 'A' grade / 4.0 GPA for this assignment. (Models, Presentation which is not included and Final Report).
