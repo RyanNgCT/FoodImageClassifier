@@ -1,6 +1,6 @@
 # FoodImageClassifier
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/RyanNgCT/FoodImageClassifier/blob/master/LICENSE)
 
 Did this for my Deep Learning Module Assignment 1. Based off the food-101 dataset on Kaggle, which was used in a DL competition.
 
